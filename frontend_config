@@ -1,5 +1,6 @@
 {
     "CENTER_LATLNG": [21.33, 79.63],
+    "DATA_REQUEST_URL": "https://github.com/Man1103/raw_data/blob/main/leaflet_data.json"
     "TILELAYER_URL": "http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
     "MARKER_ICON_URL":  "https://unpkg.com/leaflet@1.5.1/dist/images/marker-icon.png",
     "HEATMAP_DATA_SERVER_URL": "https://raw.githubusercontent.com/Man1103/raw_data/main/location_data_2023_heatmap_up_mp.csv"
