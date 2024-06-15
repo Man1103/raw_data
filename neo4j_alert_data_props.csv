@@ -1,0 +1,642 @@
+Name,Severity,Fingerprint
+RMQ - Shared Prod - Error Queues Depth,Warning,d2fc902b90355de2
+Logstash Clickhouse - Insert Errors,Info,a828570adbc28ef0
+IDfy Instrumenter - Shovel Queue Depth,Warning,787c8f2675bfcef4
+RMQ - Shared Prod - Error Queues Depth,Warning,0530f0b99cdc8e15
+RMQ - Shared Prod - Functional Queues Depth,Warning,b5f037d038a7b946
+Logstash Clickhouse - Insert Errors,Info,2932b4f5046969dd
+RMQ - No active consumer ,Warning,44f8d4a899bb5ddd
+RMQ - rapid rise in error queue depth,Warning,30bad909ad13cc8b
+Logstash Clickhouse - Insert Errors,Info,8625fa2fc41f866c
+RMQ - Shared Prod - Error Queues Depth,Warning,e91685271803e8f7
+Live Monitor Consumers Replicas Mismatch,%{[details][severity]},9a664134b3bb82d3
+ClickHouse Expensive Queries,Warning,d10ddbc3ab6f1ece
+Clickhouse Slow Queries,Warning,c706ddc9a52999b1
+Logstash Clickhouse - Insert Errors,Info,b8a8242be4d74215
+DatasourceError,Critical,9b9d6ca0527451ea
+DatasourceError,Critical,fd85a8ca9de89268
+ClickHouse Expensive Queries,Warning,ab87aff141a3c7f4
+Clickhouse Down,Critical,421723a759121798
+Clickhouse Down,Critical,27989c3220ea78ce
+Data Missing,Critical,31e39b6546200a05
+RMQ - Shared Prod - Error Queues Depth,Warning,aa6ff02e2f55ccd0
+Clickhouse Slow Queries,Warning,a00ac44948b06516
+Clickhouse Slow Queries,Warning,8e9d9068cda09d50
+Clickhouse Slow Queries,Warning,30ab19db017718e2
+RMQ - Shared Prod - Functional Queues Depth,Warning,fd2d0487546a5b28
+IDfy Instrumenter - Shovel Queue Depth,Warning,554c84358e8cc6e9
+Kubernetes POD Restart Alert,Warning,0be8233591541a77
+Logstash Clickhouse - Insert Errors,Info,215b50fc0367c224
+IDfy Instrumenter - Shovel Queue Depth,Warning,c439bb5f76559928
+Kubernetes POD Restart Alert,Warning,61db5c9db34e82ed
+Kubernetes POD Restart Alert,Warning,999c56d94f8709e9
+RMQ - Shared Prod - Functional Queues Depth,Warning,974ab3973351b598
+Clickhouse Slow Queries,Warning,e3431e19121557ee
+RMQ - Shared Prod - Functional Queues Depth,Warning,8c0bab141bf8f64c
+Logstash Clickhouse - Insert Errors,Info,6a68ee7f4a9f54f0
+Kubernetes POD Restart Alert,Warning,28963ba87fe9c344
+RMQ - No active consumer ,Warning,0574d587ab4a6bff
+Kubernetes POD Restart Alert,Warning,86f2276b113d18b7
+Kubernetes POD Restart Alert,Warning,61162c628595fbd2
+Data Missing,Critical,53564e9ad36e4ccf
+OU status changed to null,Warning,d0f59cefe8a94db3
+Kubernetes POD Restart Alert,Warning,f09ed6f1e179d28d
+RMQ - Shared Prod - Functional Queues Depth,Warning,577b931e290c08d4
+Logstash Clickhouse - Insert Errors,Info,453845005bb8b2db
+IDfy Instrumenter - Shovel Queue Depth,Warning,4d031e99e50637c3
+RMQ - Shared Prod - Functional Queues Depth,Warning,6abdc0b53df0784f
+Logstash BigQuery - Insert Errors,%{[details][severity]},1719be41146981b5
+Logstash BigQuery - Insert Errors,%{[details][severity]},a2c83255b592160d
+Logstash BigQuery - Insert Errors,%{[details][severity]},fc1525f15c3d25f4
+Logstash Clickhouse - Insert Errors,Info,9f4aeba10cd5190f
+Kubernetes POD Restart Alert,Warning,21919d2d4e2b7b59
+Container Killed Out of Memory,%{[details][severity]},78689bb2aea85b7e
+Kubernetes POD Restart Alert,Warning,0af8db957722b358
+Clickhouse Slow Queries,Warning,c5817e3dbda9be5b
+Logstash BigQuery - Insert Errors,%{[details][severity]},173153ed651d3400
+Logstash BigQuery - Insert Errors,%{[details][severity]},66f9c799de7537f9
+Logstash BigQuery - Insert Errors,%{[details][severity]},43bbf9a6b8238f34
+Logstash Clickhouse - Insert Errors,Info,dca36a5db560aa4d
+Logstash Clickhouse - Insert Errors,Info,8f40e57f775f8452
+Logstash Clickhouse - Insert Errors,Info,a73da29a8d3679d1
+Logstash Clickhouse - Insert Errors,Info,065479b0b117dca5
+Logstash Clickhouse - Insert Errors,Info,9338ffcf8f003629
+Logstash Clickhouse - Insert Errors,Info,e85c033f968557a1
+Logstash Clickhouse - Insert Errors,Info,55d9656a1423ce73
+Logstash Clickhouse - Insert Errors,Info,be2cb166f68d4be3
+Logstash Clickhouse - Insert Errors,Info,d036ac96ec0712b4
+Logstash Clickhouse - Insert Errors,Info,3f0ca7075d9b9581
+Logstash Clickhouse - Insert Errors,Info,e37df3d65efc7e3b
+Logstash Clickhouse - Insert Errors,Info,d8e1ae902b2d3bc8
+Logstash Clickhouse - Insert Errors,Info,254cbe5dc7f4cbea
+Logstash Clickhouse - Insert Errors,Info,b883372eb4b1d1fe
+Logstash Clickhouse - Insert Errors,Info,5c339fbcc18848e2
+Logstash Clickhouse - Insert Errors,Info,9e2e86c7187e6ad4
+Logstash Clickhouse - Insert Errors,Info,9b8aaabd68cbc28d
+Logstash Clickhouse - Insert Errors,Info,375795221bd22bab
+Logstash Clickhouse - Insert Errors,Info,8d40962ce82f636b
+Logstash Clickhouse - Insert Errors,Info,3681643cdebcde1b
+Logstash Clickhouse - Insert Errors,Info,65474dd4ffc8d907
+Logstash Clickhouse - Insert Errors,Info,711430dc0fbec7bf
+Logstash Clickhouse - Insert Errors,Info,1460b31304a10cad
+Logstash Clickhouse - Insert Errors,Info,5e8b0d66f8824835
+Logstash Clickhouse - Insert Errors,Info,c2bb83d40992e971
+Logstash Clickhouse - Insert Errors,Info,5b43e657ce649acd
+Logstash Clickhouse - Insert Errors,Info,ba684f48979930e2
+Logstash Clickhouse - Insert Errors,Info,54ec7062ebff6d83
+Logstash Clickhouse - Insert Errors,Info,5d2710f5e4936883
+Logstash Clickhouse - Insert Errors,Info,aea60ef688441234
+Logstash Clickhouse - Insert Errors,Info,873e0b6812f21246
+Logstash Clickhouse - Insert Errors,Info,c986e8cafa4e1dd0
+Logstash Clickhouse - Insert Errors,Info,d2d7e5ed03eb2c40
+Logstash Clickhouse - Insert Errors,Info,9eabc539e0e86416
+Logstash Clickhouse - Insert Errors,Info,d9e1a4f713438194
+Logstash Clickhouse - Insert Errors,Info,fb274ecd1fa6e12b
+Logstash Clickhouse - Insert Errors,Info,4319e387913accae
+Logstash Clickhouse - Insert Errors,Info,4fe6e3b7e951a186
+Logstash Clickhouse - Insert Errors,Info,e8c06b3bea0e64db
+Logstash Clickhouse - Insert Errors,Info,bd4048bf891807a8
+Logstash Clickhouse - Insert Errors,Info,62bded6a3f690e9a
+Logstash Clickhouse - Insert Errors,Info,dc6a4b861ad042cc
+Logstash Clickhouse - Insert Errors,Info,a2fd49759c86430f
+Logstash Clickhouse - Insert Errors,Info,59b80cee2f17285a
+Logstash Clickhouse - Insert Errors,Info,e95bb131c3b8ff28
+Logstash Clickhouse - Insert Errors,Info,6a2bbc26fac3e7df
+Logstash Clickhouse - Insert Errors,Info,eed7b34bb414e189
+Logstash Clickhouse - Insert Errors,Info,877e65f361a5e998
+Logstash Clickhouse - Insert Errors,Info,8014ccfe64920dd0
+Logstash Clickhouse - Insert Errors,Info,01fb698c3b06c6dc
+Logstash Clickhouse - Insert Errors,Info,6c48e206cf428e65
+Logstash Clickhouse - Insert Errors,Info,87607e9a9b1c9e9e
+Logstash Clickhouse - Insert Errors,Info,213fecf5357b4f7d
+Logstash Clickhouse - Insert Errors,Info,8cc776d21799d59b
+Logstash Clickhouse - Insert Errors,Info,c1a997798fbbe4f1
+Logstash Clickhouse - Insert Errors,Info,1423b8e5d7a7a856
+Logstash Clickhouse - Insert Errors,Info,c8a3b8ec8db31232
+Logstash Clickhouse - Insert Errors,Info,5cb2b5d884938840
+Logstash Clickhouse - Insert Errors,Info,400eec63b9703b34
+Logstash Clickhouse - Insert Errors,Info,ac6930b145b3c8f0
+Logstash Clickhouse - Insert Errors,Info,90a89de26b78efd7
+Logstash Clickhouse - Insert Errors,Info,24c34ce71fe6fb76
+Logstash Clickhouse - Insert Errors,Info,6588894037fb840c
+Logstash Clickhouse - Insert Errors,Info,704aa3255c5687c2
+Logstash Clickhouse - Insert Errors,Info,618b375cba500c06
+Logstash Clickhouse - Insert Errors,Info,c360121733ffb3e2
+Logstash Clickhouse - Insert Errors,Info,7c2176462f76d17c
+Logstash Clickhouse - Insert Errors,Info,bc613ccaef77748b
+Logstash Clickhouse - Insert Errors,Info,a8d0d7c966266dae
+Logstash Clickhouse - Insert Errors,Info,d87c590f075fc4e8
+Logstash Clickhouse - Insert Errors,Info,5aff8747b4eafb94
+Logstash Clickhouse - Insert Errors,Info,0b0c1bf7fccc33e3
+Logstash Clickhouse - Insert Errors,Info,4d8bf1dba8ea7405
+Logstash Clickhouse - Insert Errors,Info,02eb28465fd97cd1
+Logstash Clickhouse - Insert Errors,Info,03ca6656a80a5162
+Logstash Clickhouse - Insert Errors,Info,267211f71a71c4c9
+Logstash Clickhouse - Insert Errors,Info,e72eb2560fd3a08e
+Logstash Clickhouse - Insert Errors,Info,f490fe26cf380eff
+Logstash Clickhouse - Insert Errors,Info,51d5d097521db337
+Logstash Clickhouse - Insert Errors,Info,03a392fd471ed96b
+Logstash Clickhouse - Insert Errors,Info,3ae337667d5b0b2c
+Logstash Clickhouse - Insert Errors,Info,3b8b8074dbb34d98
+Logstash Clickhouse - Insert Errors,Info,6ff2ce361ce1ec04
+Logstash Clickhouse - Insert Errors,Info,599756f87c39d279
+Logstash Clickhouse - Insert Errors,Info,caa3629a4e4280a6
+Logstash Clickhouse - Insert Errors,Info,0397cbd4a9d8b423
+Logstash Clickhouse - Insert Errors,Info,3e0b102a282822b2
+Logstash Clickhouse - Insert Errors,Info,e09af2a76ef3c1ed
+Logstash Clickhouse - Insert Errors,Info,c690e20e3cdc0a5e
+Logstash Clickhouse - Insert Errors,Info,32d6c693e3be4075
+Logstash Clickhouse - Insert Errors,Info,e2fa309f08b3db0a
+Logstash Clickhouse - Insert Errors,Info,15cee7c71ba5169e
+Logstash Clickhouse - Insert Errors,Info,0f505725a11f3149
+Logstash Clickhouse - Insert Errors,Info,059ed95b751c67f5
+Logstash Clickhouse - Insert Errors,Info,90509c72d4927dea
+Logstash Clickhouse - Insert Errors,Info,c74a19cc41e703fc
+Logstash Clickhouse - Insert Errors,Info,ef8274223a7e8099
+Logstash Clickhouse - Insert Errors,Info,8342c94a0b5d4341
+Logstash Clickhouse - Insert Errors,Info,332846fad98fcbdd
+Logstash Clickhouse - Insert Errors,Info,40b54b44d399e84f
+Logstash Clickhouse - Insert Errors,Info,e872c70349065907
+Logstash Clickhouse - Insert Errors,Info,ffcb7b7414b32877
+Logstash Clickhouse - Insert Errors,Info,15bf5d6b713c0a70
+Logstash Clickhouse - Insert Errors,Info,20a6f4322b071b92
+Logstash Clickhouse - Insert Errors,Info,91d3ddb4701954b4
+Logstash Clickhouse - Insert Errors,Info,ed41a8eeff2fd1b1
+Logstash Clickhouse - Insert Errors,Info,0a93523131560db9
+Clickhouse Down,Critical,a62ea2de056aa428
+Persistent Queue depth - Critical Alert,Critical,b8a7efc1e156cd75
+Clickhouse High Memory Usage,Critical,244a0cbbd0542fc3
+Clickhouse High Memory Usage,Critical,f96be969850dd22a
+DatasourceNoData,Warning,aacef6c86138202c
+Kubernetes POD Restart Alert,Warning,8fe54feeb4b389ab
+ClickHouse Expensive Queries,Warning,f2c89a86ac01f01c
+ClickHouse Expensive Queries,Warning,16ef10146b0aea38
+ClickHouse Expensive Queries,Warning,a4aa5377b9aae611
+ClickHouse Expensive Queries,Warning,7dcf9422924c88dd
+ClickHouse Expensive Queries,Warning,40c6b71575820ee7
+ClickHouse Expensive Queries,Warning,57592666d58b60a1
+Kubernetes POD Restart Alert,Warning,625d0cbfc3835c56
+Clickhouse down alert from replicas,Critical,d9eb581fb331a1bc
+Records lost in av_completed_tasks CH,Info,614dd1bfba749b02
+ClickHouse Expensive Queries,Warning,b8585e9537cfe56a
+ClickHouse Expensive Queries,Warning,f77d75da0ffd6b9d
+ClickHouse Expensive Queries,Warning,244fc1a72e2c9b3a
+ClickHouse Expensive Queries,Warning,1f8ef10e48bdb850
+ClickHouse Expensive Queries,Warning,10655caded9fa781
+ClickHouse Expensive Queries,Warning,90826d041bfda83d
+ClickHouse Expensive Queries,Warning,ef92412c58cb7763
+Dorado VM Monitoring - Disk Utilization,Warning,63ed9e756d4173bd
+Dorado VM Monitoring - Disk Utilization,Warning,5c13f4520718df41
+Dorado VM Monitoring - Disk Utilization,Warning,a9026818bbcd1439
+Dorado VM Monitoring - Memory Utilization,Critical,6cd0bd1fc96f5dce
+Dorado VM Monitoring - Memory Utilization,Critical,9481a53826b1b2d2
+Test - Dorado VM Monitoring - Disk Utilization,Warning,7d847de081808586
+Test - Dorado VM Monitoring - Disk Utilization,Warning,b7e2adb7cf16f558
+Test - Dorado VM Monitoring - Disk Utilization,Warning,0a7e756f08efb6c5
+Test - Dorado VM Monitoring - Disk Utilization,Warning,6aca5e9fd3126a6b
+Test - Dorado VM Monitoring - Disk Utilization,Warning,f29b171c6618b4a2
+Test - Dorado VM Monitoring - Disk Utilization,Warning,563d4f99379aa5c6
+Test - Dorado VM Monitoring - Memory Utilization,Critical,e39d2c603ce320a8
+Test - Dorado VM Monitoring - Memory Utilization,Critical,941893048854f4ea
+⚠️ ClickHouse Expensive Queries,Warning,28205f8f98f668b6
+Logstash BigQuery - Insert Errors,%{[details][severity]},d20030659f2ccfa5
+AWS Billing Spike Alert,Warning,1fdc8b9e95aeed3a
+AWS Billing Spike Alert,Warning,67c380f270bab282
+AWS Billing Spike Alert,Warning,21df571557a60578
+AWS Billing Spike Alert,Warning,8ee3a823cda1caf8
+AWS Billing Spike Alert,Warning,357f2cfd330a4dc8
+Kubernetes POD Restart Alert,Warning,49919ebc1e7d3cc3
+⚠️ ClickHouse Expensive Queries,Warning,32da6c427519db39
+⚠️ ClickHouse Expensive Queries,Warning,e7b50456b152cecc
+⚠️ ClickHouse Expensive Queries,Warning,9bcea98f364ceca8
+⚠️ ClickHouse Expensive Queries,Warning,ead0077b6be0630c
+⚠️ ClickHouse Expensive Queries,Warning,7df67202e77c5e6f
+⚠️ ClickHouse Expensive Queries,Warning,d357e2f9b4d64a52
+RMQ - rapid rise in error queue depth,Warning,1cd60904a565868a
+RMQ - rapid rise in error queue depth,Warning,f5d96d3deebd5381
+RMQ - rapid rise in error queue depth,Warning,143e5420b704f362
+RMQ - rapid rise in error queue depth,Warning,9f649c7fa86f625a
+Clickhouse Slow Queries,Warning,5ecf7c9db43eec0e
+Logstash Clickhouse - Insert Errors,Info,99fd272d5fa6c908
+IDfy Instrumenter - Shovel Queue Depth,Warning,9f1db8d1e7ca9127
+RMQ - Shared Prod - Functional Queues Depth,Warning,c3de1149f294faa7
+⚠️ ClickHouse Expensive Queries,Warning,502ba382c56b0c65
+⚠️ ClickHouse Expensive Queries,Warning,42263e8e514515f3
+⚠️ ClickHouse Expensive Queries,Warning,ffade9d5e898f30c
+⚠️ ClickHouse Expensive Queries,Warning,b7d0dbf6925d711a
+Clickhouse Slow Queries,Warning,b770f04348b65b69
+Dorado VM Monitoring - Memory Utilization,Critical,8ad13733a1832ee0
+ClickHouse Expensive Queries,Warning,ca101572728853b3
+ClickHouse Expensive Queries,Warning,98a1173ab65b2a7f
+Kubernetes POD Restart Alert,Warning,818eb1eef1ce7bc0
+DatasourceNoData,%{[details][severity]},646c122eb36f428f
+RMQ - Shared Prod - Error Queues Depth,Warning,fb044c7a6db7ddc8
+Clickhouse Slow Queries,Warning,e15d4134dda825a2
+RMQ - rapid rise in error queue depth,Warning,7e249d436ffd3013
+ClickHouse Expensive Queries,Warning,13eac825acae3d9e
+ClickHouse Expensive Queries,Warning,9a7ecaf712343eb9
+Kubernetes POD Restart Alert,Warning,3ab45b5e7188af9e
+Test - Data push pipeline cost,Warning,343ba3432e2b4ff4
+Test - GCP Billing - Data push pipeline cost,Warning,dfa57acaba324f7a
+Logstash Clickhouse - Insert Errors,Info,78a3c3a153f1c34f
+ClickHouse Expensive Queries,Warning,0c6fc60e8e5b699d
+ClickHouse Expensive Queries,Warning,25333aecf48e02c8
+Clickhouse Slow Queries,Warning,ac893e0839dca8fc
+Logstash Clickhouse - Insert Errors,Info,698196e3dfdeaa01
+Clickhouse Down,Critical,58faf7f132491f52
+DatasourceError,Info,0d895e847b4962fd
+ClickHouse Expensive Queries,Warning,892ebb10bae48c36
+Pulsar - High Message Backlog,Critical,95094fcd5ee510bd
+Pulsar - High Message Backlog,Critical,dcd736de05844df1
+Clickhouse Slow Queries,Warning,e91bb3049378f99a
+RMQ - Shared Prod - Functional Queues Depth,Warning,d213b0eec2a1ad4d
+Avg Processing TAT per plugin - Critical Alert,Critical,c31fa74bab003305
+Avg Processing TAT per plugin - Critical Alert,Critical,f04edf57a2bd781f
+Avg Processing TAT per plugin - Critical Alert,Critical,ca5b2d43ee9ce55b
+Avg Processing TAT per plugin - Critical Alert,Critical,9a261030373c1439
+Avg Processing TAT per plugin - Critical Alert,Critical,01b078285e6f8c52
+Avg Processing TAT per plugin - Critical Alert,Critical,13a0de8d32a61d9f
+Avg Processing TAT per plugin - Critical Alert,Critical,882d9f22437191fe
+ClickHouse Expensive Queries,Warning,19bf95e8c46a0951
+Container Killed Out of Memory,%{[details][severity]},4f45dcc774299479
+Logstash Clickhouse - Insert Errors,Info,eb20dd803799e755
+Avg Processing TAT per plugin - Critical Alert,Critical,9a0b19af78406618
+Avg Processing TAT per plugin - Critical Alert,Critical,85a7aaa34799382d
+Avg Processing TAT per plugin - Critical Alert,Critical,b162692b20968f54
+Avg Processing TAT per plugin - Critical Alert,Critical,eea94c044c965738
+Avg Processing TAT per plugin - Critical Alert,Critical,b0258885ba02e102
+Avg Processing TAT per plugin - Critical Alert,Critical,746d9ccf1600cc58
+Avg Processing TAT per plugin - Critical Alert,Critical,a2fb8efcd3d58420
+Avg Processing TAT per plugin - Critical Alert,Critical,5bf7bf51d52d3fbf
+Avg Processing TAT per plugin - Critical Alert,Critical,ed994e026f4cdfd9
+Avg Processing TAT per plugin - Critical Alert,Critical,1f7e53c564af8464
+Avg Processing TAT per plugin - Critical Alert,Critical,b2d3db9a6634eb61
+Avg Processing TAT per plugin - Critical Alert,Critical,78711ba712e08cbd
+Avg Processing TAT per plugin - Critical Alert,Critical,7f425bb9aa549a67
+Avg Processing TAT per plugin - Critical Alert,Critical,5e59f7d4f6180c85
+Avg Processing TAT per plugin - Critical Alert,Critical,49a451fecbae7e73
+Avg Processing TAT per plugin - Critical Alert,Critical,55a6932a7f4c8d39
+Avg Processing TAT per plugin - Critical Alert,Critical,918cf0b8fd0086f4
+Avg Processing TAT per plugin - Critical Alert,Critical,8b8c66ea19257a48
+Avg Processing TAT per plugin - Critical Alert,Critical,6ef9ba84d889edf3
+Avg Processing TAT per plugin - Critical Alert,Critical,a5ce8660a8eace3b
+Avg Processing TAT per plugin - Critical Alert,Critical,3f48147aa2370237
+Avg Processing TAT per plugin - Critical Alert,Critical,85a765a34fbfa428
+Avg Processing TAT per plugin - Critical Alert,Critical,92e13b6e14b9d18e
+Avg Processing TAT per plugin - Critical Alert,Critical,4598c916a46c7979
+Avg Processing TAT per plugin - Critical Alert,Critical,baa2cf7ef09fded7
+Avg Processing TAT per plugin - Critical Alert,Critical,3d5352018afc1468
+Avg Processing TAT per plugin - Critical Alert,Critical,eb64edbdc12dd78e
+Avg Processing TAT per plugin - Critical Alert,Critical,47ddab2532df4ecf
+Avg Processing TAT per plugin - Critical Alert,Critical,73cc61d2a9720c09
+Avg Processing TAT per plugin - Critical Alert,Critical,31f33b0f447ac08f
+Avg Processing TAT per plugin - Critical Alert,Critical,721c91ae2f57a08e
+Avg Processing TAT per plugin - Critical Alert,Critical,660f76bad2b0856d
+Avg Processing TAT per plugin - Critical Alert,Critical,e3c640843b223dfc
+Avg Processing TAT per plugin - Critical Alert,Critical,0b5f4e3c029d8217
+Avg Processing TAT per plugin - Critical Alert,Critical,3e38d0b7439f4346
+Avg Processing TAT per plugin - Critical Alert,Critical,069d01a8bca3ae6c
+ClickHouse Expensive Queries,Warning,8c2350cc4ece5ff1
+Kubernetes POD Restart Alert,Warning,83002a487c8ec126
+ClickHouse Expensive Queries,Warning,cadbe89242a5224d
+ClickHouse Expensive Queries,Warning,e5d8e13413e57984
+ClickHouse Expensive Queries,Warning,0744ed738c4152e4
+ClickHouse Expensive Queries,Warning,2a7ed5eb8969eca3
+Avg Processing TAT per plugin - Critical Alert,Critical,6ac5e4f34ebbd7b8
+Avg Processing TAT per plugin - Critical Alert,Critical,4d6c7e2cc1ce318f
+Avg Processing TAT per plugin - Critical Alert,Critical,8b0ecdadfd739552
+Avg Processing TAT per plugin - Critical Alert,Critical,9257eb87e249c905
+Logstash Clickhouse - Insert Errors,Info,b9dab187dc7c79ae
+Logstash Clickhouse - Insert Errors,Info,47124799a634588a
+Logstash Clickhouse - Insert Errors,Info,e15a26b06ba2311b
+Logstash Clickhouse - Insert Errors,Info,7c0f9ebd4abe9c5b
+Alert_test BigQuery Expensive Query,Warning,cdb8f5fc1a0ab611
+Alert_test BigQuery Slow Query,Warning,ffbc6e745af79b0a
+ClickHouse Expensive Queries,Warning,0f0539f83c180102
+ClickHouse Expensive Queries,Warning,e972a33929bc96d2
+ClickHouse Expensive Queries,Warning,236a3db67368a066
+IDfy Instrumenter - Shovel Queue Depth,Warning,102e400e9e4abeaa
+Logstash Clickhouse - Insert Errors,Info,87f30586e896be72
+Avg Processing TAT per plugin - Critical Alert,Critical,87c5c49f477380d6
+Avg Processing TAT per plugin - Critical Alert,Critical,f7fde4708b2fab34
+Avg Processing TAT per plugin - Critical Alert,Critical,c961bed14d94c288
+Avg Processing TAT per plugin - Critical Alert,Critical,6013351e731bd803
+Avg Processing TAT per plugin - Critical Alert,Critical,eacbb44a1afee650
+Logstash Clickhouse - Insert Errors,Info,d4033bcf7fb10ac8
+DatasourceNoData,Critical,05606cfde46cacfb
+High live monitor avg metric TAT ,Critical,3fc3a0f62f9692e2
+Kubernetes POD Restart Alert,Warning,b351d9eeb4f009d9
+Test - High live monitor avg metric TAT ,Critical,b7d9505d295b547c
+Logstash Clickhouse - Insert Errors,Info,16cf11c8d46fb395
+Logstash Clickhouse - Insert Errors,Info,94027d44159ca8e2
+Container Killed Out of Memory,%{[details][severity]},1ef7b38d0183a56b
+Container Killed Out of Memory,%{[details][severity]},4e86360fe8a15957
+Kubernetes POD Restart Alert,Warning,1856a32d9efb1825
+Logstash BigQuery - Insert Errors,%{[details][severity]},d988781d1afd1e33
+RMQ - Shared Prod - Functional Queues Depth,Warning,e654ee0e5682e047
+RMQ - Shared Prod - Functional Queues Depth,Warning,0929e6ccb70a525b
+IDfy Instrumenter - Shovel Queue Depth,Warning,9bd33af57053a46a
+Logstash Clickhouse - Insert Errors,Info,2d68e694833a6dcc
+ClickHouse Expensive Queries,Warning,a9ebb8eb8c186806
+Clickhouse Slow Queries,Warning,0842ab88f93af61f
+Test - High live monitor avg metric TAT ,Critical,81ecbfcec7d291ab
+Container Killed Out of Memory,%{[details][severity]},f84f2a6e6cb114e9
+Kubernetes POD Restart Alert,Warning,964187cd21681837
+Logstash Clickhouse - Insert Errors,Info,b6613fd7bcd921ce
+ClickHouse Expensive Queries,Warning,102fa7053e9420a4
+Clickhouse Slow Queries,Warning,f8cbf96854478a44
+Kubernetes POD Restart Alert,Warning,5c52fc5b5f3320bd
+Records lost in av_completed_tasks CH,Info,977402f8e8a78320
+Logstash Clickhouse - Insert Errors,Info,5f57e06ae737b749
+Logstash Clickhouse - Insert Errors,Info,e3e0069cdb1f7ca4
+Pulsar - rapid rise in backlog depth,Warning,980b3817b1b2793a
+Pulsar - rapid rise in backlog depth,Warning,9dee5568002aad22
+Logstash Clickhouse - Insert Errors,Info,bd3fb65e82e201c8
+Kubernetes POD Restart Alert,Warning,a166d489227a7ead
+Kubernetes POD Restart Alert,Warning,2be227e7e866a4ec
+ClickHouse Expensive Queries,Warning,652c2183fc769ffb
+Logstash Clickhouse - Insert Errors,Info,e27cc07edfbd6cec
+Logstash Clickhouse - Insert Errors,Info,a2b4c0056e3a1a44
+Logstash Clickhouse - Insert Errors,Info,4666935d4c209d05
+Logstash Clickhouse - Insert Errors,Info,f57a2e48c8d8721d
+Logstash Clickhouse - Insert Errors,Info,9cd4c1a23a4f5b1f
+Logstash Clickhouse - Insert Errors,Info,dba109672ca28b11
+Logstash Clickhouse - Insert Errors,Info,90e19017f81e0b1b
+Logstash Clickhouse - Insert Errors,Info,b3dedfece83dc4ae
+Logstash Clickhouse - Insert Errors,Info,f2798a45c6d648e0
+Logstash Clickhouse - Insert Errors,Info,323cdccfb9a71569
+Logstash Clickhouse - Insert Errors,Info,19e334a12add4869
+Logstash Clickhouse - Insert Errors,Info,f2a7a84b037eabdd
+Logstash Clickhouse - Insert Errors,Info,30d04fbe4b8a254d
+Logstash Clickhouse - Insert Errors,Info,1be38b6cbc21d426
+Logstash Clickhouse - Insert Errors,Info,cc16fd6ae71cf829
+Logstash Clickhouse - Insert Errors,Info,195f3bfb4d1d0ce0
+Logstash Clickhouse - Insert Errors,Info,219b659d45b39bae
+Logstash Clickhouse - Insert Errors,Info,d6738e13a46545a6
+Logstash Clickhouse - Insert Errors,Info,9954535e8db2fc05
+Logstash Clickhouse - Insert Errors,Info,67dc314f13d41ec0
+Logstash Clickhouse - Insert Errors,Info,54d0e65e0d91eab1
+Logstash Clickhouse - Insert Errors,Info,53c11eeabfdb1a63
+Logstash Clickhouse - Insert Errors,Info,f65545f725b505a7
+Logstash Clickhouse - Insert Errors,Info,b4df2e06bbc0ceca
+Logstash Clickhouse - Insert Errors,Info,55fa229ab5414d3a
+Logstash Clickhouse - Insert Errors,Info,4b29ceab2029e57b
+Logstash Clickhouse - Insert Errors,Info,a2f1aeb1479b8424
+Logstash Clickhouse - Insert Errors,Info,05a1ee83081183be
+Logstash Clickhouse - Insert Errors,Info,9163f40b3aacbcfe
+Logstash Clickhouse - Insert Errors,Info,87a45c93400f96cf
+Logstash Clickhouse - Insert Errors,Info,c771d124292c5d78
+Logstash Clickhouse - Insert Errors,Info,6181c52e9bd5de50
+Logstash Clickhouse - Insert Errors,Info,8e94d897b52734c0
+Logstash Clickhouse - Insert Errors,Info,62d83819bf877d73
+Logstash Clickhouse - Insert Errors,Info,60b0f6fcdb4a1761
+Logstash Clickhouse - Insert Errors,Info,fca5ef8e04ad3e58
+Logstash Clickhouse - Insert Errors,Info,0590f4b997675c49
+Logstash Clickhouse - Insert Errors,Info,0d51d253e8f7faeb
+Logstash Clickhouse - Insert Errors,Info,de62a6e3815124ce
+Logstash Clickhouse - Insert Errors,Info,2befc373a549faa2
+Logstash Clickhouse - Insert Errors,Info,191eb0f3a8d2fae0
+Logstash Clickhouse - Insert Errors,Info,15838e8be5465960
+Logstash Clickhouse - Insert Errors,Info,d6f2cd3df9850b76
+Logstash Clickhouse - Insert Errors,Info,804a7051e1d637c8
+Logstash Clickhouse - Insert Errors,Info,74532ae0bffed04f
+Logstash Clickhouse - Insert Errors,Info,9b18f0e25373d391
+Logstash Clickhouse - Insert Errors,Info,e812993679d70b82
+Logstash Clickhouse - Insert Errors,Info,0447373b68d7fcf6
+Logstash Clickhouse - Insert Errors,Info,2c75caf4c95f9130
+Logstash Clickhouse - Insert Errors,Info,e997e4f949b77dea
+Logstash Clickhouse - Insert Errors,Info,aa7838cdd80f530e
+Logstash Clickhouse - Insert Errors,Info,7df8ddc19c42d80a
+Logstash Clickhouse - Insert Errors,Info,7d0001b5a3b75915
+Logstash Clickhouse - Insert Errors,Info,8445238af8f16e3e
+Logstash Clickhouse - Insert Errors,Info,198104a636eaf423
+Logstash Clickhouse - Insert Errors,Info,5e4c550560744dd3
+Logstash Clickhouse - Insert Errors,Info,32dc2c347018db33
+Logstash Clickhouse - Insert Errors,Info,415a9980f5745f93
+Logstash Clickhouse - Insert Errors,Info,7a1c6775f10cdf2f
+Logstash Clickhouse - Insert Errors,Info,cdff7c32ee7603bc
+Logstash Clickhouse - Insert Errors,Info,2d5f986190e594ad
+Logstash Clickhouse - Insert Errors,Info,ec85b37583a4f85e
+Logstash Clickhouse - Insert Errors,Info,5f5531d12b85b144
+Logstash Clickhouse - Insert Errors,Info,18bc34acc582eb14
+Logstash Clickhouse - Insert Errors,Info,151316c36db19f35
+Logstash Clickhouse - Insert Errors,Info,8704db75741284bf
+Logstash Clickhouse - Insert Errors,Info,ca0771891610611a
+Logstash Clickhouse - Insert Errors,Info,422026c552c553cb
+Logstash Clickhouse - Insert Errors,Info,5a40e41dbad57ab9
+Logstash Clickhouse - Insert Errors,Info,b577d6ea253cd17d
+Logstash Clickhouse - Insert Errors,Info,a41471f1e729df29
+Logstash Clickhouse - Insert Errors,Info,34b300085061bda0
+Logstash Clickhouse - Insert Errors,Info,6d2c5e306016f391
+Logstash Clickhouse - Insert Errors,Info,c264cced40182c41
+Logstash Clickhouse - Insert Errors,Info,3faa261c671d5343
+Logstash Clickhouse - Insert Errors,Info,c51b420a4bbaf40a
+Logstash Clickhouse - Insert Errors,Info,532fec7ef9be07ba
+Logstash Clickhouse - Insert Errors,Info,942cfeeefd60c41b
+Logstash Clickhouse - Insert Errors,Info,95b457f6060442ec
+Logstash Clickhouse - Insert Errors,Info,7cb06f10fe1c999e
+Logstash Clickhouse - Insert Errors,Info,fd095227c1fe0698
+Logstash Clickhouse - Insert Errors,Info,5e6c3af1959f2aa0
+Logstash Clickhouse - Insert Errors,Info,4bcfe50ad397435e
+Logstash Clickhouse - Insert Errors,Info,99418b9162fecd8e
+Logstash Clickhouse - Insert Errors,Info,a74618eeba81ef3c
+Logstash Clickhouse - Insert Errors,Info,38f3f13a0f06658e
+Logstash Clickhouse - Insert Errors,Info,cf2d967b1e7b59a9
+Logstash Clickhouse - Insert Errors,Info,360ad47feafbe2ef
+Logstash Clickhouse - Insert Errors,Info,6dfea36fa1ec01e4
+Logstash Clickhouse - Insert Errors,Info,10cf63e4c3358300
+Logstash Clickhouse - Insert Errors,Info,0e62cc82f5f57f72
+Logstash Clickhouse - Insert Errors,Info,fcf8b4ab62b1cadc
+Logstash Clickhouse - Insert Errors,Info,3eff72cf6c4bd4c8
+Logstash Clickhouse - Insert Errors,Info,a3381f43700277d4
+Logstash Clickhouse - Insert Errors,Info,d8247cb477c7b1c3
+Logstash Clickhouse - Insert Errors,Info,da497d3042cc4da4
+Logstash Clickhouse - Insert Errors,Info,099a27860233d819
+Logstash Clickhouse - Insert Errors,Info,30948cfee2dbad2d
+Logstash Clickhouse - Insert Errors,Info,df0a0df1d53f7731
+Logstash Clickhouse - Insert Errors,Info,11d68613c2a356b9
+Logstash Clickhouse - Insert Errors,Info,1f8b9e6282d96601
+Logstash Clickhouse - Insert Errors,Info,2a30dba83c0c2f4a
+Logstash Clickhouse - Insert Errors,Info,24d1daa7d52af5cb
+Logstash Clickhouse - Insert Errors,Info,e6928e0b8fd0cc00
+Logstash Clickhouse - Insert Errors,Info,50d096968ac372ca
+Logstash Clickhouse - Insert Errors,Info,ca834bc50f57706a
+Logstash Clickhouse - Insert Errors,Info,5bf0b3e8832c70af
+Logstash Clickhouse - Insert Errors,Info,a2b5ac91587b2f95
+Logstash Clickhouse - Insert Errors,Info,03525686867f8898
+Logstash Clickhouse - Insert Errors,Info,402f1e76c8c5cebd
+Logstash Clickhouse - Insert Errors,Info,594131732df684f7
+Logstash Clickhouse - Insert Errors,Info,ffe1e1a4bc43d95f
+Logstash Clickhouse - Insert Errors,Info,77432e6c9c4b6fef
+Logstash Clickhouse - Insert Errors,Info,374400d8c3fa2a3a
+Logstash Clickhouse - Insert Errors,Info,cef1b0de81dfe70b
+Logstash Clickhouse - Insert Errors,Info,c5772d1b61e2ad0b
+Logstash Clickhouse - Insert Errors,Info,47e53eb29faf9d89
+Logstash Clickhouse - Insert Errors,Info,0f150d3a0a778bfc
+Logstash Clickhouse - Insert Errors,Info,4d781d3f6307939c
+Logstash Clickhouse - Insert Errors,Info,d1e67937971bfe09
+Logstash Clickhouse - Insert Errors,Info,fe3be9cb5976b452
+Logstash Clickhouse - Insert Errors,Info,463fa03cc571dce8
+Logstash Clickhouse - Insert Errors,Info,33e580251d83e65e
+Logstash Clickhouse - Insert Errors,Info,0182a940d8fcc121
+Logstash Clickhouse - Insert Errors,Info,f1300458b8ecc33c
+Logstash Clickhouse - Insert Errors,Info,d6e92a4a7fc8ffbb
+Logstash Clickhouse - Insert Errors,Info,e0e211d77d158e12
+Logstash Clickhouse - Insert Errors,Info,774680a95ef10f3c
+Logstash Clickhouse - Insert Errors,Info,1194c5b1267a2884
+Logstash Clickhouse - Insert Errors,Info,c00a43945f2a07ee
+Logstash Clickhouse - Insert Errors,Info,8ef0496620c10752
+Logstash Clickhouse - Insert Errors,Info,43d7d171e21ea4c5
+Logstash Clickhouse - Insert Errors,Info,54d7ae76ccac0b4a
+Logstash Clickhouse - Insert Errors,Info,e83f87842d3a91c9
+Logstash Clickhouse - Insert Errors,Info,a8e3d35bb79fadb5
+Logstash Clickhouse - Insert Errors,Info,f515546cbab6ff84
+Logstash Clickhouse - Insert Errors,Info,be4e4d0bf184acbd
+Logstash Clickhouse - Insert Errors,Info,2d8fbeaae916cd95
+Logstash Clickhouse - Insert Errors,Info,26b3f1f0ded60e31
+Logstash Clickhouse - Insert Errors,Info,1996cf2c8533b41b
+Logstash Clickhouse - Insert Errors,Info,21695f180cf31d20
+Logstash Clickhouse - Insert Errors,Info,cd5ee61dcc2d6228
+Logstash Clickhouse - Insert Errors,Info,9ac58f5430401ad7
+Logstash Clickhouse - Insert Errors,Info,f69a6cbc721ef789
+Logstash Clickhouse - Insert Errors,Info,9023d7edbb2c5ff5
+Logstash Clickhouse - Insert Errors,Info,c112a66f010f92d4
+Logstash Clickhouse - Insert Errors,Info,49829a2a0e2c00cf
+Logstash Clickhouse - Insert Errors,Info,ce646e561dd92e6d
+Logstash Clickhouse - Insert Errors,Info,0d0f3374b380966b
+Logstash Clickhouse - Insert Errors,Info,a5e3db16c0384911
+Logstash Clickhouse - Insert Errors,Info,df7714148c342d26
+Logstash Clickhouse - Insert Errors,Info,17c1844579ffe82f
+Logstash Clickhouse - Insert Errors,Info,c635392041166242
+Logstash Clickhouse - Insert Errors,Info,d05bb6dab831f3d9
+Logstash Clickhouse - Insert Errors,Info,e7a65a49d0f57829
+Logstash Clickhouse - Insert Errors,Info,5a1d862ddbbe5acf
+Logstash Clickhouse - Insert Errors,Info,73f7026ebcf0f8da
+Logstash Clickhouse - Insert Errors,Info,76fcadce183549f3
+Logstash Clickhouse - Insert Errors,Info,78ce46849c88a757
+Logstash Clickhouse - Insert Errors,Info,45325692505b8ff8
+Logstash Clickhouse - Insert Errors,Info,c6588f9b75e70bbe
+Logstash Clickhouse - Insert Errors,Info,74741eb656098ad1
+Logstash Clickhouse - Insert Errors,Info,48f1af581bce9842
+Logstash Clickhouse - Insert Errors,Info,3a59bd5d556bd9d1
+Logstash Clickhouse - Insert Errors,Info,5ae9c188e45da53f
+Logstash Clickhouse - Insert Errors,Info,879708bf4624989c
+Logstash Clickhouse - Insert Errors,Info,8146b6f02ea46d19
+Logstash Clickhouse - Insert Errors,Info,f43e139e763074b4
+Logstash Clickhouse - Insert Errors,Info,0a142fa29ec35da3
+Logstash Clickhouse - Insert Errors,Info,e1d210c754c24182
+Clickhouse down alert from replicas,Critical,c0c39697dce5cc56
+Container Killed Out of Memory,%{[details][severity]},b2fe77a6c5c3e11c
+Container Killed Out of Memory,%{[details][severity]},eb720927e6e7b408
+Container Killed Out of Memory,%{[details][severity]},63ed39149204ff74
+IDfy Instrumenter - Shovel Queue Depth,Warning,516f12c3ae9968d1
+IDfy Instrumenter - Shovel Queue Depth,Warning,35745be89576028a
+IDfy Instrumenter - Shovel Queue Depth,Warning,93615dd0a3286547
+Kubernetes POD Restart Alert,Warning,c69a3bdf28b5f6d2
+Kubernetes POD Restart Alert,Warning,2ecb83d1e4133b32
+Kubernetes POD Restart Alert,Warning,1370787e2ed94b0c
+Persistent Queue depth - Critical Alert,Critical,62800feb936a232d
+Dataflow job for av_completed_tasks_v2 failed,Info,5b2308a053b8ab11
+Alert_test - Dorado VM Monitoring - CPU Utilization,Warning,73a125276e7f1690
+Alert_test - Dorado VM Monitoring - CPU Utilization,Warning,12ff0f25524a1956
+ClickHouse Expensive Queries,Warning,94a59da4017afe73
+ClickHouse Expensive Queries,Warning,0b60bdd12f50b9af
+ClickHouse Expensive Queries,Warning,4be2d3135766ac8b
+Dorado VM Monitoring - - Max Memory utilization - Critical,Critical,ba3cd556374e0289
+Dorado VM Monitoring - CPU Utilization,Warning,ed199cbfbffd4bde
+Dorado VM Monitoring - CPU Utilization,Warning,3017b8af842cfd74
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,eb7a76ca9fa64a3f
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,a53fe36124d89fff
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,c7c3e0e413df0b83
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,a418d73ce857bab7
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,e64778a90d2b2637
+Dorado VM Monitoring - Disk Utilization - Warning,Warning,427279a62957aeef
+ClickHouse Expensive Queries,Warning,058e2dae9f2170b1
+ClickHouse Expensive Queries,Warning,71a7f2d5fb8a6823
+ClickHouse Expensive Queries,Warning,920fc2e764dd5842
+ClickHouse Expensive Queries,Warning,a2f4c5ec09d97573
+Dorado VM Monitoring - CPU Utilization,Warning,1a67fde5b858320e
+Disk Availability,Info,48db30b6c2ecd457
+Logstash Clickhouse - Insert Errors,Info,bd52b7b09386e008
+Clickhouse Slow Queries,Warning,b09767fa0112ac2e
+Kubernetes POD Restart Alert,Warning,a7efb50615636996
+Pulsar - No active consumer ,Warning,a7b1f5d1f0b0d485
+Test - Pulsar - No active consumer ,Warning,9bfbd237f6ae6ae2
+DatasourceError,Critical,7b2b5196a7512fc1
+ClickHouse Expensive Queries,Warning,68ba69ddfee5b189
+IDfy Instrumenter - Shovel Queue Depth,Warning,d01f166e38a96293
+Clickhouse Slow Queries,Warning,9ae15c5c5e153f1b
+RMQ - rapid rise in error queue depth,Warning,20b7386df43ffaa3
+Kubernetes POD Restart Alert,Warning,220d26d1363608bd
+Logstash Clickhouse - Insert Errors,Info,a05f804f61549ea9
+RMQ - No active consumer ,Warning,5d0a67bca0c5f549
+Logstash BigQuery - Insert Errors,%{[details][severity]},cabb14610b4b0b58
+Kubernetes POD Restart Alert,Warning,c25fe5ce69ead64e
+Pulsar - High message backlog by subscription,Critical,fd7645e088e11754
+Pulsar - High message backlog by subscription,Critical,b58ddd39100bcf12
+Pulsar - High message backlog by subscription,Critical,b34251c900dcbd73
+Pulsar - High message backlog by subscription,Critical,7ee9ef0c31bac3a7
+Container Killed Out of Memory,%{[details][severity]},c2148d54e79d3129
+Container Killed Out of Memory,%{[details][severity]},3a4517a0282ec145
+Container Killed Out of Memory,%{[details][severity]},4fd6a1a505009e66
+Container Killed Out of Memory,%{[details][severity]},1d086f41019e2ed7
+Container Killed Out of Memory,%{[details][severity]},c93a8ad4629b5fd4
+Container Killed Out of Memory,%{[details][severity]},e7a2f7e4537d4df2
+Container Killed Out of Memory,%{[details][severity]},50f2facaa17025ce
+IDfy Instrumenter - Shovel Queue Depth,Warning,39dfbf95f39ba626
+Kubernetes POD Restart Alert,Warning,fafa4f9fce079b5f
+Kubernetes POD Restart Alert,Warning,98965b83cbb5c87f
+Kubernetes POD Restart Alert,Warning,5931ac3dcedeab14
+Memory Request Utilization : Live Monitor Pods,Warning,759724d7ff4c8dd2
+Memory Request Utilization : Live Monitor Pods,Warning,78d3c9551caaf92f
+Memory Request Utilization : Live Monitor Pods,Warning,d0bc3bb09fba1d94
+Avg Processing TAT per plugin - Critical Alert,Critical,f4014c86c5133e55
+DatasourceNoData,Warning,49899e22a1a05029
+IDfy Instrumenter - Shovel Queue Depth,Warning,08e7a73cf4f0ed30
+Kubernetes POD Restart Alert,Warning,a09801560e092c9d
+Pulsar - Metrics Absent,Warning,e6c901d51be7d96a
+Pulsar - Metrics absent,Warning,701f7d453066118a
+Pulsar - Metrics absent,Warning,9e2ca700919fbbb9
+Test - Pulsar - Consumers count more than 1000,Warning,f309dd4a1918557a
+Test - Pulsar - Metrics absent,Warning,c7d515d207960392
+Test - Pulsar - Metrics absent,Warning,7e800d81bf78c61d
+Logstash Clickhouse - Insert Errors,Info,c5246a78149d143f
+Logstash Clickhouse - Insert Errors,Info,5eff0484a801b23c
+Logstash Clickhouse - Insert Errors,Info,b47b978faa9ac265
+Logstash Clickhouse - Insert Errors,Info,6e05c7baa5c2fda6
+Logstash Clickhouse - Insert Errors,Info,c4aa26ac198504b3
+Logstash Clickhouse - Insert Errors,Info,9da65de976535300
+Logstash Clickhouse - Insert Errors,Info,8af4f628ab5cd72c
+Logstash Clickhouse - Insert Errors,Info,fa8d8e598ab9aae7
+Logstash Clickhouse - Insert Errors,Info,110541ae60bcfe6e
+Logstash Clickhouse - Insert Errors,Info,6f25e873bf1cf5b8
+Logstash Clickhouse - Insert Errors,Info,b585adb1eef8e388
+Logstash Clickhouse - Insert Errors,Info,8bd0e865261883df
+Logstash Clickhouse - Insert Errors,Info,92555756792132f8
+ClickHouse Expensive Queries,Warning,be7828319a9997e6
+ClickHouse Expensive Queries,Warning,17a0a66a44bc17a6
+ClickHouse Expensive Queries,Warning,d0256821bb65b3c4
+ClickHouse Expensive Queries,Warning,1fd3aaf122c80fc5
+ClickHouse Expensive Queries,Warning,a9cec75e35f86e12
+Kubernetes POD Restart Alert,Warning,5f3aeaf8c998a34b
+Kubernetes POD Restart Alert,Warning,676adbf7c5b9b570
+Kubernetes POD Restart Alert,Warning,73fa564336409f1c
+Kubernetes POD Restart Alert,Warning,46d99d3d677f7be2
+Kubernetes POD Restart Alert,Warning,66a46e8167783bba
+Kubernetes POD Restart Alert,Warning,2f73200bfa1ea672
+Kubernetes POD Restart Alert,Warning,7b5433f2d700aed2
+Kubernetes POD Restart Alert,Warning,1c9bb4e782948ed8
+Kubernetes POD Restart Alert,Warning,1abee623840be808
+Kubernetes POD Restart Alert,Warning,8e6fbbe01db8739f
+Logstash Clickhouse - Insert Errors,Info,15111fff026bbcf7
+Logstash Clickhouse - Insert Errors,Info,62fcd3bade1a234f
+ClickHouse Expensive Queries,Warning,ae8dc1c88b38867e
+ClickHouse Expensive Queries,Warning,be57a5504e5adfba
+ClickHouse Expensive Queries,Warning,6b9865c3ff42b353
+Clickhouse Slow Queries,Warning,80428ce64d09c3b7
+Kubernetes POD Restart Alert,Warning,ded9ed04e753b281
+Test - RMQ - rapid rise in error queue depth,Warning,fc5ef69a79d266b9
+Test - RMQ - rapid rise in error queue depth,Warning,a530460e133a91a6
+Kubernetes POD Restart Alert,Warning,fbc5436740bdea89
+RMQ - rapid rise in error queue depth,Warning,5875481f66773087
+RMQ - rapid rise in error queue depth,Warning,8c6749ebc377db56
