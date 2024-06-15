@@ -1,551 +1,551 @@
-Name,Impacts,Cnt
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - Shared Prod - Error Queues Depth,live-monitor_error,22
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,live-monitor-2-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-ClickHouse Expensive Queries,metabase,1
-Test - High live monitor avg metric TAT,[no value],3
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Test - Pulsar - Metrics absent,StreamNative Pulsar,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,3
-DatasourceNoData,Pulsar,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,data-push-engine-service,1
-Kubernetes POD Restart Alert,insights-service,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,grafana,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,metabase,3
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-3,52
-Kubernetes POD Restart Alert,live-monitor-2-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-3,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,insights-service,2
-RMQ - No active consumer,RMQ,4
-RMQ - Shared Prod - Functional Queues Depth,calls_event_queue,17
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,insights-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-IDfy Instrumenter - Shovel Queue Depth,VS Indonesia,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Alert_test - Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-2,2
-Data Missing,Av Completed Tasks,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Test - Pulsar - No active consumer,StreamNative Pulsar,1
-Kubernetes POD Restart Alert,insights-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Kubernetes POD Restart Alert,live-desk-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-1,2
-Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Pulsar - rapid rise in backlog depth,logstash-bigquery,6
-Clickhouse Down,dorado-clickhouse-cluster-1.c.idfy-data-lake-prod.internal:9363,3
-RMQ - Shared Prod - Functional Queues Depth,beam-events_catalogue_volume,35
-Logstash BigQuery - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-3,6
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,metabase,1
-AWS Billing Spike Alert,Baldor Technologies Pvt Ltd,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-IDfy Instrumenter - Shovel Queue Depth,Amazon Pay,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-RMQ - Shared Prod - Error Queues Depth,logstash-bq_error,8
-Logstash Clickhouse - Insert Errors,DataFabric,1
-AWS Billing Spike Alert,Privy Prod,1
-Kubernetes POD Restart Alert,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - Metrics absent,"pulsar_rate_in, pulsar_rate_out",2
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Data Missing,Av Completed Profiles,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - rapid rise in error queue depth,calls_event_queue_error,6
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Pulsar - High message backlog by subscription,logstash-bigquery,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Test - GCP Billing - Data push pipeline cost,GCP Billing,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,grafana,1
-Kubernetes POD Restart Alert,insights-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,insights-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Persistent Queue depth - Critical Alert,logstash-clickhouse-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Pulsar - Metrics absent,StreamNative Pulsar,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - High Message Backlog,logstash-clickhouse,9
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Clickhouse Down,dorado-clickhouse-cluster-2.c.idfy-data-lake-prod.internal:9363,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Test - RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-ClickHouse Expensive Queries,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-ClickHouse Expensive Queries,metabase,1
-RMQ - No active consumer,StreamNative Pulsar,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Test - Data push pipeline cost,GCP Billing,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash BigQuery - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Pulsar - Metrics Absent,StreamNative Pulsar,8
-IDfy Instrumenter - Shovel Queue Depth,DC Prod,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Kubernetes POD Restart Alert,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-DatasourceNoData,[no value],1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - High Message Backlog,logstash-bigquery,17
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Dorado VM Monitoring - CPU Utilization,dorado-zookeeper-cluster-3,16
-Alert_test - Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-1,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,metabase,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-IDfy Instrumenter - Shovel Queue Depth,IndusInd,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash BigQuery - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,insights-service,3
-Test - Dorado VM Monitoring - Memory Utilization,[no value],1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-AWS Billing Spike Alert,IDfy Amazon Pay,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Kubernetes POD Restart Alert,grafana,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-RMQ - Shared Prod - Functional Queues Depth,beam-generic_anomaly_stream,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,5
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Test - Pulsar - Metrics absent,Pulsar,2
-Test - Dorado VM Monitoring - Disk Utilization,[no value],1
-Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name }}",1
-IDfy Instrumenter - Shovel Queue Depth,Eve Prod,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,insights-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1
-IDfy Instrumenter - Shovel Queue Depth,PG Prod,15
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-1,4
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-0,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-RMQ - Shared Prod - Functional Queues Depth,calls_event_queue,2
-Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-2,6
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-1,29
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-⚠️ ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-ClickHouse Expensive Queries,metabase,1
-ClickHouse Expensive Queries,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-RMQ - Shared Prod - Functional Queues Depth,beam-generic_anomaly_stream,2
-RMQ - Shared Prod - Functional Queues Depth,clickhouse_inserts,10
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-IDfy Instrumenter - Shovel Queue Depth,Shared Prod,67
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,metabase,1
-AWS Billing Spike Alert,IDfy VS AWS Staging,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - High message backlog by subscription,Pulsar,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - rapid rise in error queue depth,live-monitor_error,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Kubernetes POD Restart Alert,grafana,1
-ClickHouse Expensive Queries,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Kubernetes POD Restart Alert,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,live-monitor-2-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,metabase,1
-RMQ - Shared Prod - Functional Queues Depth,clickhouse_inserts,2
-Clickhouse Down,dorado-clickhouse-cluster-2.c.idfy-data-lake-prod.internal:9363,19
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,insights-service,2
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-1,4
-Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Alert_test BigQuery Slow Query,GCP Billing,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Clickhouse Down,dorado-clickhouse-cluster-1.c.idfy-data-lake-prod.internal:9363,20
-Kubernetes POD Restart Alert,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Test - Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-3,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - Shared Prod - Error Queues Depth,logstash-bq_error,10
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-RMQ - Shared Prod - Functional Queues Depth,beam-events_catalogue_volume,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-1,6
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-IDfy Instrumenter - Shovel Queue Depth,VS Prod,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,insights-service,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Test - Dorado VM Monitoring - Memory Utilization,[no value],1
-AWS Billing Spike Alert,Platform Staging,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-ClickHouse Expensive Queries,metabase,1
-Kubernetes POD Restart Alert,data-ingestion-service,1
-Kubernetes POD Restart Alert,grafana,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,data-ingestion-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Persistent Queue depth - Critical Alert,logstash-clickhouse-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - rapid rise in backlog depth,logstash-clickhouse,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Kubernetes POD Restart Alert,grafana,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-2,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - Shared Prod - Functional Queues Depth,logstash-elasticsearch,44
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,metabase,1
-Dorado VM Monitoring - - Max Memory utilization - Critical,dorado-es-cluster-3,3
-RMQ - Shared Prod - Functional Queues Depth,logstash-big-query,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,live-desk-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,5
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,3
-RMQ - rapid rise in error queue depth,logstash-clickhouse_error,32
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,live-monitor-service,1
-Pulsar - High message backlog by subscription,logstash-clickhouse,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-IDfy Instrumenter - Shovel Queue Depth,CrimeCheck Prod,4
-IDfy Instrumenter - Shovel Queue Depth,Multitenant Gateway,7
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-2,4
-IDfy Instrumenter - Shovel Queue Depth,Eve Prod,13
-ClickHouse Expensive Queries,metabase,1
-ClickHouse Expensive Queries,metabase,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Alert_test BigQuery Expensive Query,GCP Infra,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-RMQ - rapid rise in error queue depth,logstash-bq_error,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-2,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-RMQ - No active consumer,RMQ,10
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Pulsar - High message backlog by subscription,Pulsar,1
-Pulsar - No active consumer,StreamNative Pulsar,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-IDfy Instrumenter - Shovel Queue Depth,PG Prod,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-IDfy Instrumenter - Shovel Queue Depth,Shared Prod,17
-Logstash Clickhouse - Insert Errors,DataFabric,1
-⚠️ ClickHouse Expensive Queries,metabase,1
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Test - RMQ - rapid rise in error queue depth,logstash-bq_error,1
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Kubernetes POD Restart Alert,logstash-influxdb-service,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1
-Test - Pulsar - Consumers count more than 1000,metrics.streamnative.cloud:443,1
-RMQ - Shared Prod - Error Queues Depth,logstash-clickhouse_error,19
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Logstash Clickhouse - Insert Errors,DataFabric,2
-Kubernetes POD Restart Alert,insights-service,1
-Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-2,13
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Kubernetes POD Restart Alert,grafana,1
-RMQ - Shared Prod - Error Queues Depth,live-monitor_error,44
-Logstash Clickhouse - Insert Errors,DataFabric,1
-Logstash Clickhouse - Insert Errors,DataFabric,4
-Logstash Clickhouse - Insert Errors,DataFabric,3
-Logstash Clickhouse - Insert Errors,DataFabric,2
+Name,Impacts,Cnt,CompactImpact
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - Shared Prod - Error Queues Depth,live-monitor_error,22,LiveMonitor
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,live-monitor-2-service,1,LiveMonitor
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+ClickHouse Expensive Queries,metabase,1,Metabase
+Test - High live monitor avg metric TAT,[no value],3,NoVal
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Test - Pulsar - Metrics absent,StreamNative Pulsar,2,Pulsar
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+DatasourceNoData,Pulsar,1,Pulsar
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,data-push-engine-service,1,DPE
+Kubernetes POD Restart Alert,insights-service,2,Insights
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,grafana,1,Grafana
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,metabase,3,Metabase
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-3,52,ES
+Kubernetes POD Restart Alert,live-monitor-2-service,1,LiveMonitor
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-3,4,Zookeeper
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,insights-service,2,Insights
+RMQ - No active consumer,RMQ,4,RMQ
+RMQ - Shared Prod - Functional Queues Depth,calls_event_queue,17,RMQ
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1,NoVal
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,VS Indonesia,1,VS-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Alert_test - Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-2,2,Dorado
+Data Missing,Av Completed Tasks,1,VS-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Test - Pulsar - No active consumer,StreamNative Pulsar,1,Pulsar
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Kubernetes POD Restart Alert,live-desk-service,1,LSD
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-1,2,Dorado
+Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1,VictoriaMetrics
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Pulsar - rapid rise in backlog depth,logstash-bigquery,6,BQ
+Clickhouse Down,dorado-clickhouse-cluster-1.c.idfy-data-lake-prod.internal:9363,3,Dorado
+RMQ - Shared Prod - Functional Queues Depth,beam-events_catalogue_volume,35,BEAM
+Logstash BigQuery - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-3,6,Zookeeper
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+AWS Billing Spike Alert,Baldor Technologies Pvt Ltd,1,Tech
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,Amazon Pay,1,Amazon
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+RMQ - Shared Prod - Error Queues Depth,logstash-bq_error,8,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+AWS Billing Spike Alert,Privy Prod,1,CGP-Pod
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - Metrics absent,"pulsar_rate_in, pulsar_rate_out",2,Pulsar
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Data Missing,Av Completed Profiles,1,VS-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - rapid rise in error queue depth,calls_event_queue_error,6,RMQ
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Pulsar - High message backlog by subscription,logstash-bigquery,4,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Test - GCP Billing - Data push pipeline cost,GCP Billing,1,GCP
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,grafana,1,Grafana
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Persistent Queue depth - Critical Alert,logstash-clickhouse-service,1,CH
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Pulsar - Metrics absent,StreamNative Pulsar,2,Pulsar
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - High Message Backlog,logstash-clickhouse,9,CH
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Clickhouse Down,dorado-clickhouse-cluster-2.c.idfy-data-lake-prod.internal:9363,2,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Test - RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+ClickHouse Expensive Queries,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+ClickHouse Expensive Queries,metabase,1,Metabase
+RMQ - No active consumer,StreamNative Pulsar,1,Pulsar
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Test - Data push pipeline cost,GCP Billing,1,GCP
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash BigQuery - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Pulsar - Metrics Absent,StreamNative Pulsar,8,Pulsar
+IDfy Instrumenter - Shovel Queue Depth,DC Prod,1,DC-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+DatasourceNoData,[no value],1,NoVal
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - High Message Backlog,logstash-bigquery,17,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Dorado VM Monitoring - CPU Utilization,dorado-zookeeper-cluster-3,16,Zookeeper
+Alert_test - Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-1,2,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,metabase,2,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,IndusInd,1,IndusInd
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash BigQuery - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,insights-service,3,Insights
+Test - Dorado VM Monitoring - Memory Utilization,[no value],1,NoVal
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+AWS Billing Spike Alert,IDfy Amazon Pay,1,Amazon
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Kubernetes POD Restart Alert,grafana,1,Grafana
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+RMQ - Shared Prod - Functional Queues Depth,beam-generic_anomaly_stream,1,BEAM
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,5,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Test - Pulsar - Metrics absent,Pulsar,2,Pulsar
+Test - Dorado VM Monitoring - Disk Utilization,[no value],1,NoVal
+Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name }}",1,NoVal
+IDfy Instrumenter - Shovel Queue Depth,Eve Prod,1,EVE-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1,VictoriaMetrics
+IDfy Instrumenter - Shovel Queue Depth,PG Prod,15,PG-Pod
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-1,4,Dorado
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-0,4,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+RMQ - Shared Prod - Functional Queues Depth,calls_event_queue,2,RMQ
+Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-2,6,Dorado
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-1,29,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+ClickHouse Expensive Queries,metabase,1,Metabase
+ClickHouse Expensive Queries,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+RMQ - Shared Prod - Functional Queues Depth,beam-generic_anomaly_stream,2,BEAM
+RMQ - Shared Prod - Functional Queues Depth,clickhouse_inserts,10,CH
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,Shared Prod,67,SharedProd
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,metabase,1,Metabase
+AWS Billing Spike Alert,IDfy VS AWS Staging,1,AWS
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - High message backlog by subscription,Pulsar,1,Pulsar
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - rapid rise in error queue depth,live-monitor_error,1,LiveMonitor
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Kubernetes POD Restart Alert,grafana,1,Grafana
+ClickHouse Expensive Queries,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,live-monitor-2-service,1,LiveMonitor
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+RMQ - Shared Prod - Functional Queues Depth,clickhouse_inserts,2,CH
+Clickhouse Down,dorado-clickhouse-cluster-2.c.idfy-data-lake-prod.internal:9363,19,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,insights-service,2,Insights
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-1,4,Dorado
+Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1,NoVal
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Alert_test BigQuery Slow Query,GCP Billing,1,GCP
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,1,CH
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Clickhouse Down,dorado-clickhouse-cluster-1.c.idfy-data-lake-prod.internal:9363,20,Dorado
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Test - Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-3,1,Zookeeper
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - Shared Prod - Error Queues Depth,logstash-bq_error,10,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+RMQ - Shared Prod - Functional Queues Depth,beam-events_catalogue_volume,4,BEAM
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Dorado VM Monitoring - Disk Utilization,dorado-zookeeper-cluster-1,6,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,VS Prod,1,VS-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,insights-service,2,Insights
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Test - Dorado VM Monitoring - Memory Utilization,[no value],1,NoVal
+AWS Billing Spike Alert,Platform Staging,1,Platform-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+ClickHouse Expensive Queries,metabase,1,Metabase
+Kubernetes POD Restart Alert,data-ingestion-service,1,DataFabric
+Kubernetes POD Restart Alert,grafana,2,Grafana
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,data-ingestion-service,1,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Persistent Queue depth - Critical Alert,logstash-clickhouse-service,1,CH
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - rapid rise in backlog depth,logstash-clickhouse,2,CH
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Kubernetes POD Restart Alert,grafana,2,Grafana
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Dorado VM Monitoring - CPU Utilization,dorado-clickhouse-cluster-2,2,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - Shared Prod - Functional Queues Depth,logstash-elasticsearch,44,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Dorado VM Monitoring - - Max Memory utilization - Critical,dorado-es-cluster-3,3,ES
+RMQ - Shared Prod - Functional Queues Depth,logstash-big-query,1,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,live-desk-service,1,LSD
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,victoria-metrics-cluster-vmselect,1,VictoriaMetrics
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,5,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+RMQ - rapid rise in error queue depth,logstash-clickhouse_error,32,CH
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,live-monitor-service,1,LiveMonitor
+Pulsar - High message backlog by subscription,logstash-clickhouse,2,CH
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,CrimeCheck Prod,4,CC-Pod
+IDfy Instrumenter - Shovel Queue Depth,Multitenant Gateway,7,Gateway
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-rabbitmq-cluster-node-2,4,Dorado
+IDfy Instrumenter - Shovel Queue Depth,Eve Prod,13,EVE-Pod
+ClickHouse Expensive Queries,metabase,1,Metabase
+ClickHouse Expensive Queries,metabase,1,Metabase
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Alert_test BigQuery Expensive Query,GCP Infra,1,GCP
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+RMQ - rapid rise in error queue depth,logstash-bq_error,2,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Dorado VM Monitoring - Disk Utilization - Warning,dorado-zookeeper-cluster-2,4,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+RMQ - No active consumer,RMQ,10,RMQ
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Pulsar - High message backlog by subscription,Pulsar,1,Pulsar
+Pulsar - No active consumer,StreamNative Pulsar,1,Pulsar
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,PG Prod,2,PG-Pod
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+IDfy Instrumenter - Shovel Queue Depth,Shared Prod,17,SharedProd
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+⚠️ ClickHouse Expensive Queries,metabase,1,Metabase
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Test - RMQ - rapid rise in error queue depth,logstash-bq_error,1,BQ
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Avg Processing TAT per plugin - Critical Alert,logstash-elasticsearch-service,1,ES
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Kubernetes POD Restart Alert,logstash-influxdb-service,2,InfluxDB
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Test - Dorado VM Monitoring - Disk Utilization,"{{ $values.C.Labels.""metadata.label.system.name"" }}",1,NoVal
+Test - Pulsar - Consumers count more than 1000,metrics.streamnative.cloud:443,1,Pulsar
+RMQ - Shared Prod - Error Queues Depth,logstash-clickhouse_error,19,CH
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
+Kubernetes POD Restart Alert,insights-service,1,Insights
+Dorado VM Monitoring - Memory Utilization,dorado-es-cluster-2,13,Dorado
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Kubernetes POD Restart Alert,grafana,1,Grafana
+RMQ - Shared Prod - Error Queues Depth,live-monitor_error,44,LiveMonitor
+Logstash Clickhouse - Insert Errors,DataFabric,1,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,4,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,3,DataFabric
+Logstash Clickhouse - Insert Errors,DataFabric,2,DataFabric
